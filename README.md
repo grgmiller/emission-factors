@@ -72,6 +72,7 @@ co2_emission_factors = {
 
 # Default CO2 Emission Factors for Various Types of Power Generation Fuels
 Based on eGRID 2018 using AR5 GWP with climate-carbon feedback
+all units in kg CO2e/mmbtu
 ```
 fuel_type_co2e_emission_factor = {
     'AB':	120.510,
